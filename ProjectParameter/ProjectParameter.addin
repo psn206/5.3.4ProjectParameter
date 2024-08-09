@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPI\ProjectParameter.dll"</Assembly>
+		<AddInId>4153D367-6232-4934-AEB9-1FED9E397AAA</AddInId>
+		<FullClassName>ProjectParameter.Main</FullClassName>
+		<VendorId>ADSC</VendorId>
+		<Text>Параметр проекта</Text>	
+	</AddIn>
+</RevitAddIns>
